@@ -1,3 +1,3 @@
 ### Condidentail 
 
-Ask user to acess the file 
+Ask user to get acess of the file 
